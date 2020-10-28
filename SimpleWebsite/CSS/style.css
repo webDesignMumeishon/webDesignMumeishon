@@ -1,0 +1,116 @@
+body{
+    padding: 0px 0px 0px 0px;
+    width: 99%;
+    height: 100%;
+    margin: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: whitesmoke;
+    display: table;
+}
+
+header{
+    /* border: 1px solid black; */
+    width: 100%;
+    height: 120px;
+    background: #D6DBDF;
+    text-align: center;
+}
+
+#logo{
+    margin-top: 10px;
+    margin-left: -90%;
+}
+
+nav{
+    /*distance of the li from the closest margin element*/    
+    margin-top: -60px;
+    font-size: 16px;
+    margin-left: -10px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+/*When the link has already been visited change the coor to...*/
+a:visited{
+    color: black;
+}
+
+/*Whenever you push the link it changes the color*/
+a:active{
+    /*Whenever after clicking and take off the coursor it turns red*/
+    color:black;
+}
+
+li{
+    /*To remove the dots of the ul*/
+    list-style-type: none;
+    /*Put the links horizontally*/
+    display: inline;
+    padding: 3px 8px 3px 8px;
+    background-color: #3498DB;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*This is for changing the color of the link when the arrow is on it*/
+a:hover{
+    color: white;
+}
+
+#wrapper{
+    width: 800px;
+    height: auto;
+    /* border: 1px solid black; */
+    /*To center the wrapper in the middle of the website*/
+    margin: 0px auto;
+    margin-top: 10px;
+
+}
+
+/*The image is within the wrapped div*/
+#image1{
+    width:800px;
+    height:350px;
+    border: 1px solid grey;
+}
+
+/*section{
+    /* border: 1px solid black; */
+}*/
+
+footer{
+    height: 50px;
+    /* border: solid black 1px; */
+    /*To center the footer's text*/ text-align: center;
+    font-size: 14px;
+    padding: 35px;
+
+}
+
+table {
+    table-layout:fixed;
+    width:100%;
+    height: 250px;
+    word-wrap:break-word;
+}
+  
+td{
+   white-space: normal;
+   text-align: initial;
+   text-rendering: geometricPrecision;
+   border-radius: 10px;
+   background-color: skyblue;
+   box-shadow: 10px 10px 20px steelblue;
+   padding: 5px;
+}
+
+h3{
+    text-align: center;
+    font-size: 30px;
+}
+
+
