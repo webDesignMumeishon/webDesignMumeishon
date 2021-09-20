@@ -21,9 +21,9 @@ and features.
 - 🌱 I’m currently learning MongoDB, Mongoose
 - 👯 I’m looking to collaborate on a multiplayer game built with socket.io
 - 🤔 I’m looking for help with ...
-- 📫 How to reach me:
-  Email:    muma.sanmartin2011@gmail.com
-  Number:   +54 9 3794 658844
-  LinkedIn: https://www.linkedin.com/in/tomas-ignacio-macchi-868965aa/
+- 📫 How to reach me: <br/>
+  Email:    muma.sanmartin2011@gmail.com <br/>
+  Number:   +54 9 3794 658844 <br/>
+  LinkedIn: https://www.linkedin.com/in/tomas-ignacio-macchi-868965aa/ <br/>
 - ⚡ Fun fact: I got into programming because the pandemic, ever since that moment I can't stop coding lol
 
