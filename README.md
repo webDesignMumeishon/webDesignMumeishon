@@ -1,9 +1,21 @@
 ### Hi there 👋
 
+My name is Tomas Macchi and I'm a lawyer and self-taught full-stack developer!
 
-**webDesignMumeishon/webDesignMumeishon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Throughout the years I have done many things before becoming a developer, from
+graduating from Law School to manage a restaurant. I have learned a
+lot in my different roles gaining sufficient knowledge and skills to thrive in different types of organizations.
 
-Here are some ideas to get you started:
+Ever since the pandemic I've decided to get into programming, it was at that moment
+where I switched my career to another direction.
+In the begging, I focused on problem-solving skills and algorithms, afterwards
+I enrolled in a Bootcamp to learn in-demand skills in the industry
+
+Currently, I'm a Teaching Assistant at Henry, where I teach students different
+technologies on a daily basis
+
+I enjoy what I do every day! Always self-teaching to myself new technologies
+and features.
 
 - 🔭 I’m currently working on a project that connects people that sign in in a dynamic map with personal information enter by the user
 - 🌱 I’m currently learning MongoDB, Mongoose
