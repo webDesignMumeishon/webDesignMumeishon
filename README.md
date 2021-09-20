@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **webDesignMumeishon/webDesignMumeishon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
   Number:   +54 9 3794 658844
   LinkedIn: https://www.linkedin.com/in/tomas-ignacio-macchi-868965aa/
 - ⚡ Fun fact: I got into programming because the pandemic, ever since that moment I can't stop coding lol
--->
+
