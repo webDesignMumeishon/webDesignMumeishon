@@ -20,7 +20,7 @@ and features.
 - 🔭 I’m currently working on a project that connects people that sign in in a dynamic map with personal information enter by the user
 - 🌱 I’m currently learning MongoDB, Mongoose
 - 👯 I’m looking to collaborate on a multiplayer game built with socket.io
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with finding a job!!
 - 📫 How to reach me: <br/>
   Email:    muma.sanmartin2011@gmail.com <br/>
   Number:   +54 9 3794 658844 <br/>
