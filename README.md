@@ -1,3 +1,6 @@
+
+Full Stack Developer | JavaScript | React-Redux | NodeJs | Express | MongoDB | Bootstrap | Sequelize | Postgres | Mongoose
+
 ### Hi there 👋
 
 My name is Tomas Macchi and I'm a lawyer and self-taught full-stack developer!
