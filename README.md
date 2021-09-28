@@ -20,9 +20,9 @@ technologies on a daily basis
 I enjoy what I do every day! Always self-teaching to myself new technologies
 and features.
 
-- 🔭 I’m currently working on a project that connects people that sign in in a dynamic map with personal information enter by the user
+- 🔭 I’m currently working on a card game project !
 - 🌱 I’m currently learning MongoDB, Mongoose
-- 👯 I’m looking to collaborate on a multiplayer game built with socket.io
+- 👯 I’m looking to collaborate in various open source projects
 - 🤔 I’m looking for help with finding a job!!
 - 📫 How to reach me: <br/>
   Email:    muma.sanmartin2011@gmail.com <br/>
