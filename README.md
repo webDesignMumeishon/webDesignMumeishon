@@ -1,5 +1,5 @@
 
-Full Stack Developer | JavaScript | React-Redux | NodeJs | Express | MongoDB | Bootstrap | Sequelize | Postgres | Mongoose
+Full Stack Developer | JavaScript | React-Redux | NodeJs | Express | MongoDB | Bootstrap | Sequelize | Postgres | Mongoose | MySQL | TypeScript
 
 ### Hi there 👋
 
@@ -14,16 +14,14 @@ where I switched my career to another direction.
 In the begging, I focused on problem-solving skills and algorithms, afterwards
 I enrolled in a Bootcamp to learn in-demand skills in the industry
 
-Currently, I'm a Teaching Assistant at Henry, where I teach students different
-technologies on a daily basis
+Currently, I'm working as a Backend Developer for Mutual LDS Dating App
 
 I enjoy what I do every day! Always self-teaching to myself new technologies
 and features.
 
-- 🔭 I’m currently working on a card game project !
-- 🌱 I’m currently learning MongoDB, Mongoose
+- 🔭 I’m currently working on a roulette game (gambling) !
+- 🌱 I’m currently learning AWS to pass the Cloud Practicioner Exam
 - 👯 I’m looking to collaborate in various open source projects
-- 🤔 I’m looking for help with finding a job!!
 - 📫 How to reach me: <br/>
   Email:    muma.sanmartin2011@gmail.com <br/>
   Number:   +54 9 3794 658844 <br/>
